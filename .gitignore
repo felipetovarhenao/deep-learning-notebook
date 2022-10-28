@@ -1,0 +1,10 @@
+**/.*
+.ipynb_checkpoints
+*.pyc
+!.gitignore
+**/__pycache__
+**/*.h5
+**/*.jpeg
+**/*.jpg 
+**/*.png
+cats_and_dogs_small
